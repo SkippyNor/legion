@@ -17,7 +17,7 @@ If you are interested in contributing to Legion, join our [Legion Keybase Team](
 
 ### FEATURES
 
-* Automatic recon and scanning with NMAP, whataweb, nikto, Vulners, Hydra, SMBenum, dirbuster, sslyzer, webslayer 
+* Automatic reconnaissance and scanning with NMAP, whataweb, nikto, Vulners, Hydra, SMBenum, dirbuster, sslyzer, webslayer 
 and more (with almost 100 auto-scheduled scripts).
 * Easy to use graphical interface with rich context menus and panels that allow pentesters to quickly find and 
 exploit attack vectors on hosts.
